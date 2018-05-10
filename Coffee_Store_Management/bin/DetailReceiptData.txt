@@ -1,0 +1,45 @@
+﻿{"idRecept":1,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":2,"qtyProduct":1,"total":20,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":4,"costValue":10,"sellValue":20}}
+{"idRecept":3,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":4,"qtyProduct":1,"total":20,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":4,"costValue":10,"sellValue":20}}
+{"idRecept":5,"qtyProduct":2,"total":20,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":6,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":7,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":8,"qtyProduct":1,"total":20,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":4,"costValue":10,"sellValue":20}}
+{"idRecept":9,"qtyProduct":1,"total":20,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":4,"costValue":10,"sellValue":20}}
+{"idRecept":10,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":11,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":12,"qtyProduct":1,"total":20,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":4,"costValue":10,"sellValue":20}}
+{"idRecept":13,"qtyProduct":2,"total":20,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":14,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":15,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":16,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":17,"qtyProduct":1,"total":0,"staff":null,"product":{"nameProduct":null,"type":null,"idProduct":0,"costValue":0,"sellValue":0}}
+{"idRecept":18,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":19,"qtyProduct":1,"total":10,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":5,"sellValue":10}}
+{"idRecept":20,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":21,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":10000,"sellValue":20000}}
+{"idRecept":22,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}
+{"idRecept":23,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":24,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":10000,"sellValue":20000}}
+{"idRecept":25,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":26,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":10000,"sellValue":20000}}
+{"idRecept":27,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}
+{"idRecept":28,"qtyProduct":20,"total":600000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":29,"qtyProduct":10,"total":300000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}
+{"idRecept":30,"qtyProduct":5,"total":150000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":31,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":32,"qtyProduct":2,"total":60000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}
+{"idRecept":33,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}
+{"idRecept":34,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":35,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":36,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":37,"qtyProduct":2,"total":40000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":38,"qtyProduct":3,"total":90000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":39,"qtyProduct":3,"total":90000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":40,"qtyProduct":10,"total":300000,"staff":null,"product":{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}}
+{"idRecept":41,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":42,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":43,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":44,"qtyProduct":1,"total":20000,"staff":null,"product":{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}}
+{"idRecept":45,"qtyProduct":1,"total":30000,"staff":null,"product":{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}}

@@ -1,0 +1,4 @@
+{"nameProduct":"Coffee","type":"drink","idProduct":1,"costValue":15000,"sellValue":20000}
+{"nameProduct":"Milk Coffee","type":"drink","idProduct":2,"costValue":15000,"sellValue":30000}
+{"nameProduct":"Cookies","type":"cake","idProduct":3,"costValue":10000,"sellValue":20000}
+{"nameProduct":"Cheese Cake","type":"cake","idProduct":4,"costValue":15000,"sellValue":30000}

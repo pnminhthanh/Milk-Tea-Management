@@ -1,0 +1,14 @@
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.exe.config
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.exe
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.pdb
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.csprojResolveAssemblyReference.cache
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.exe
+C:\Users\MinhThanh\documents\visual studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Coffee_Store_Management.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\obj\Debug\Coffee_Store_Management.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Coffee_Store_Management\Coffee_Store_Management\bin\Debug\Newtonsoft.Json.xml

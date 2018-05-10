@@ -1,0 +1,3 @@
+﻿{"nameStaff":"Thanh","CMND":"025757632","birthday":"1997-04-03T00:00:00","idNumber":1,"salary":5000000,"gender":0,"department":{"idDepartment":1,"numberStaff":3,"nameDepartment":"Ban hang"}}
+{"nameStaff":"Dieu","CMND":"21654789","birthday":"1997-05-01T00:00:00","idNumber":2,"salary":5000000,"gender":1,"department":{"idDepartment":2,"numberStaff":5,"nameDepartment":"Phuc vu"}}
+{"nameStaff":"Nguoi A","CMND":"32164789","birthday":"1995-09-21T00:00:00","idNumber":3,"salary":4000000,"gender":0,"department":{"idDepartment":2,"numberStaff":5,"nameDepartment":"Phuc vu"}}

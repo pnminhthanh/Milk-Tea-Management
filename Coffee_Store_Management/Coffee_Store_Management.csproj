@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24DF7C56-380A-4F99-B333-80F0ABB18B73}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Coffee_Store_Management</RootNamespace>
+    <AssemblyName>Coffee_Store_Management</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enum.cs" />
+    <Compile Include="Tool\IOMethod.cs" />
+    <Compile Include="Department\DepartmentManagement.cs" />
+    <Compile Include="Department\DepartmentModel.cs" />
+    <Compile Include="Department\DepartmentView.cs" />
+    <Compile Include="Member\MemberManagement.cs" />
+    <Compile Include="Member\MemberModel.cs" />
+    <Compile Include="Member\MemberView.cs" />
+    <Compile Include="Receipt\Receipt.cs" />
+    <Compile Include="Staff\StaffModel.cs" />
+    <Compile Include="Staff\StaffManagement.cs" />
+    <Compile Include="Menu\MenuModel.cs" />
+    <Compile Include="Receipt\ReceiptManagement.cs" />
+    <Compile Include="Receipt\ReceiptDetail.cs" />
+    <Compile Include="Staff\StaffView.cs" />
+    <Compile Include="Menu\MenuView.cs" />
+    <Compile Include="Menu\MenuManagement.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeMember\TypeMember.cs" />
+    <Compile Include="TypeMember\TypeMemberManagement.cs" />
+    <Compile Include="TypeMember\TypeMemberView.cs" />
+    <Compile Include="Tool\Ultils.cs" />
+    <Compile Include="Intro.cs" />
+    <Compile Include="Receipt\ReceiptView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,2 @@
+﻿{"idDepartment":1,"numberStaff":3,"nameDepartment":"Ban hang","manager":null}
+{"idDepartment":2,"numberStaff":5,"nameDepartment":"Phuc vu","manager":null}

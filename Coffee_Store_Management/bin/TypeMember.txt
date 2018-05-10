@@ -1,0 +1,5 @@
+﻿{"idType":1,"discountrate":0.0,"requiredpoint":0.0,"nameType":"Bronze"}
+{"idType":2,"discountrate":0.02,"requiredpoint":10000.0,"nameType":"Silver"}
+{"idType":3,"discountrate":0.04,"requiredpoint":20000.0,"nameType":"Gold"}
+{"idType":4,"discountrate":0.07,"requiredpoint":35000.0,"nameType":"Platinum"}
+{"idType":5,"discountrate":0.1,"requiredpoint":50000.0,"nameType":"Diamond"}
